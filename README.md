@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN stack and Data Structures and Algorithm
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me email id
+- 📫 How to reach me purohitdaksh2003@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I have creative mind also! ;)
 
