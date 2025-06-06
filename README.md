@@ -25,7 +25,7 @@
 
 🧠 **Role-Based Access Control System**  
 > A MERN stack project where **teachers** can upload study materials and **restrict access to specific student groups** based on roles. Admins can manage users and content.  
-🔗 [View Project](https://github.com/dakshu04)
+🔗 [Live Link](https://front-end-rbac-college-book-store.vercel.app/) [View Project](https://github.com/dakshu04)
 
 ♟️ **Multiplayer Chess Game**  
 > Built using **sockets**, this real-time app allows two players to play simultaneously with a **spectator** mode!  
