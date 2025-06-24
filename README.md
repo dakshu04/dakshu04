@@ -27,7 +27,7 @@
 A full-stack productivity app to organize & manage Twitter and YouTube content using embedded previews.  
 > 🔐 Secure JWT Auth • 🧩 CRUD Features • 🎨 Clean UI with Shadcn & Framer Motion  
 > 💾 MongoDB Backend with Express • 🌐 Deployed on Render & Vercel  
-🔗 [Live Site](https://prod-rekall-fslh.vercel.app/) | [GitHub](https://github.com/dakshu04/rekall)
+🔗 [Live Site](https://prod-rekall-fslh.vercel.app/) | [GitHub](https://github.com/dakshu04/prod-rekall)
 
 ---
 
