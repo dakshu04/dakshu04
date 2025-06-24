@@ -19,6 +19,14 @@
 ---
 
 ### 🔥 What I’ve Built
+🧠 **Rekall**  
+> Developed a full-stack web application for managing personal content like YouTube videos and Twitter posts by embedding them from user-provided links.
+> Implemented secure JWT-based user authentication with protected dashboards and user-specific content storage in MongoDB.
+> Enabled full CRUD operations with content filtering by tag (Twitter/YouTube), and integrated \textbf{Shadcn UI} dialogs for adding/editing items.
+> Used Framer Motion for subtle UI animations and Tailwind CSS for responsive design, ensuring a smooth and modern UX.
+> Deployed frontend on Vercel and backend on Render, handling CORS and token authorization securely.  
+🔗 [Live Link](https://prod-rekall-fslh.vercel.app/) [View Project](https://github.com/dakshu04)
+
 🧭 **Shortest Path Visualizer**  
 > React-based visual tool to showcase **Dijkstra’s Algorithm** in action, with animations and obstacle handling.  
 🔗 [Live Link](https://path-finder-project.vercel.app/) [View Project](https://github.com/dakshu04) 
