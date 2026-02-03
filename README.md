@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#4C9EEB;">Daksh Purohit</span></h1>
-<h3 align="center">Software Engineer Intern @ Accenture | MERN Stack Developer | Core Java & DSA Enthusiast</h3>
+<h3 align="center">Software Engineer @ Accenture | Full Stack Developer | Core Java & DSA Enthusiast</h3>
 
 <div align="center">
   
