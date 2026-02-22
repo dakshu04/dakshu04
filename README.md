@@ -1,112 +1,93 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#4C9EEB;">Daksh Purohit</span></h1>
-<h3 align="center">Software Engineer @ Accenture | Full Stack Developer | Core Java & DSA Enthusiast</h3>
-
 <div align="center">
-  
-🎓 B.Tech in Artificial Intelligence & Data Science — JECRC College, Jaipur (Class of 2025)  
-💻 Full Stack Developer • Problem Solver • System Thinker  
-🌐 Love building scalable apps, exploring system design, and growing with code!  
-🚀 Always curious. Always shipping.  
-💼 Actively looking for **Full-Time Opportunities**, **Freelance Gigs**, and open to **collaborations** on exciting projects!
-
+  <h1>Daksh Purohit</h1>
+  <p><b>Software Engineer | Designer Engineer | MVP Builder</b></p>
+  <p>
+    <a href="https://github.com/dakshu04">GitHub</a> • 
+    <a href="https://linkedin.com/in/purohitdaksh">LinkedIn</a> • 
+    <a href="mailto:purohitdaksh2003@gmail.com">Email</a> • 
+    <span>+91-6375363914</span>
+  </p>
 </div>
 
 ---
 
-## 🚀 Tech Stack & Tools
+## ✦ About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,ts,js,java,tailwind,figma,git,github,vscode,mysql" />
-</p>
+I am a software engineer who loves building full-stack products from scratch. Bridging the gap between aesthetics and highly functional systems, I operate as a **Designer Engineer**—crafting premium, minimalistic interfaces backed by robust, scalable architectures. 
 
----
+With a strong focus on AI integrations and automation, **I build MVPs for clients like the ones below**, helping founders and businesses go from zero to one rapidly without compromising on code quality or user experience.
 
-## 🌟 Featured Projects
 
-### 🧠 Rekall – Personal Content Hub  
-A full-stack productivity app to organize & manage Twitter and YouTube content using embedded previews.  
-> 🔐 Secure JWT Auth • 🧩 CRUD Features • 🎨 Clean UI with Shadcn & Framer Motion  
-> 💾 MongoDB Backend with Express • 🌐 Deployed on Render & Vercel  
-🔗 [Live Site](https://prod-rekall-fslh.vercel.app/) | [GitHub](https://github.com/dakshu04/prod-rekall)
 
 ---
 
-### 🧭 Shortest Path Visualizer  
-Interactive React tool visualizing **Dijkstra’s Algorithm** with dynamic grid path animations.  
-> 🚦Wall placement, start/end selection, real-time animation  
-🔗 [Live Site](https://path-finder-project.vercel.app/) | [GitHub](https://github.com/dakshu04/Path-Finder-Project)
+## ✦ Experience
+
+### Software Engineer @ Accenture
+*Feb 2025 – Present | Gurugram, India*
+* Developed and maintained scalable RESTful APIs, optimizing data retrieval efficiency and reducing application response time by 15%.
+* Developed scalable, reusable React UI components, improving maintainability and boosting application responsiveness.
+
+### Frontend Development Intern @ Matrix Tech Pvt. Ltd.
+*Aug 2023 – Sept 2023 | Jaipur, India*
+* Built responsive, interactive UI components using React.js, resulting in a 12% increase in user session retention.
 
 ---
 
-### 🔐 Role-Based Access Control Web App  
-MERN app for college book sharing platform with secure role-based login (Student, Teacher, Admin).  
-> 📚 Teachers upload materials • 🧑‍🏫 Admin controls roles & users  
-🔗 [Live Site](https://front-end-rbac-college-book-store.vercel.app/) | [GitHub](https://github.com/dakshu04/RBAC-College-Book-Store)
+## ✦ Proof-of-Work (Featured Projects)
+
+### [SnapMod](https://snapmod.xyz) — AI-Powered SaaS for Creators
+*Next.js 14, TypeScript, Gemini API, Dodo Payments, Supabase*
+> **Live App:** [snapmod.xyz](https://snapmod.xyz) | Nov 2025 – Present
+
+* Architected and launched a B2C SaaS platform enabling users to generate and edit professional headshots using Gemini Nano/Flash AI models.
+* Engineered a robust monetization system using Dodo Payments, implementing secure webhooks to handle real-time subscription activation and tiered access.
+* Optimized API latency for heavy AI workloads by implementing optimistic UI updates and edge caching in Next.js, ensuring a seamless user experience.
+* Integrated Clerk for secure authentication and Supabase (PostgreSQL) for managing user credits and transaction history.
+
+### ImageMagic — Advanced Image Transformation
+*Next.js, TypeScript, Prisma, Tailwind CSS, Shadcn UI, NeonTech*
+> **Live App & GitHub** | Oct 2025
+
+* Built ImageMagic, a SaaS application that allows users to transform images for social media platforms with resizing, cropping, and optimization features.
+* Integrated Cloudinary to enable background removal and advanced image processing, delivering professional-quality results at no cost.
+* Developed a modern, responsive interface using Next.js, React, Tailwind CSS, and Shadcn UI for a polished and intuitive design.
+
+### BillMate — Streamlined Invoice Management
+*Next.js, TypeScript, Prisma, Tailwind CSS*
+> **Live App & GitHub** | Jul 2025 – Sept 2025
+
+* Developed a full-stack invoice management system for small businesses and freelancers, allowing seamless client management, invoice creation, and PDF generation in under one minute.
+* Implemented features for managing multiple clients, generating professional PDF invoices, and tracking invoice history with a clean dashboard.
 
 ---
 
-### ♟️ Real-Time Multiplayer Chess Game  
-A real-time socket-powered chess app with **player invite links** and **spectator mode**.  
-> ⏱ Built with Node, Socket.io & vanilla JS  
-🔗 [GitHub](https://github.com/dakshu04)
+## ✦ Technical Arsenal
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript (ES6+), Java |
+| **Frontend** | React.js, Next.js, HTML5, CSS3, Tailwind CSS, Shadcn UI |
+| **Backend** | Node.js, Express.js, RESTful APIs, Prisma ORM |
+| **Databases** | MongoDB, PostgreSQL (Supabase, NeonTech), SQL |
+| **Fundamentals** | System Design, DSA, OOP, OS, DBMS, Computer Networks |
+| **Tools** | Git, GitHub, VS Code, Postman, Vercel |
 
 ---
 
-## 💼 Experience
+## ✦ Education
 
-- **Software Engineering Intern** @ Accenture (Present)  
-  Working on high-impact enterprise applications and refining real-world systems.
-
-- **Frontend Developer Intern** @ Matrix, Jaipur (Aug–Sept 2023)  
-  Developed dynamic UIs with React & Tailwind, boosting UX & reducing design inconsistencies by 20%.
-
----
-
-## 📚 Currently Learning
-
-- 🔧 TypeScript Deep Dive  
-- 🛠 System Design & Scalable Architectures  
-- 🔐 Backend Security Best Practices  
-- 🎯 Interview DSA (Leetcode Daily)
+| Degree | Institute | Percentage | Year |
+| :--- | :--- | :--- | :--- |
+| **B.Tech. (AI & Data Science)** | Jaipur Engineering College and Research Center | 87.20% | 2025 |
+| **Senior Secondary** | Alok School | 84.00% | 2021 |
+| **Secondary** | Shree Jee Public Sr. Sec. School | 89.17% | 2019 |
 
 ---
 
-## 📊 GitHub Stats
+## ✦ Analytics & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakshu04&show_icons=true&theme=tokyonight&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshu04&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
-## 📬 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/purohitdaksh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:purohitdaksh2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/DakshPuroh18319" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="30" />
-  </a>
-</p>
-
----
-
-## ✨ Quote to Live By
-
-> _“Consistency compounds. Code. Build. Ship. Repeat.”_  
-> 💡 *Open to full-time roles, freelance gigs, and building something impactful together!*
-
----
-
-## 🧮 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dakshu04&label=Visitors&color=0e75b6&style=flat" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dakshu04&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshu04&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333" height="160" alt="Top Languages" />
+</div>
