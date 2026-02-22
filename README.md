@@ -2,6 +2,7 @@
   <h1>Daksh Purohit</h1>
   <p><b>Software Engineer | Designer Engineer | MVP Builder</b></p>
   <p>
+    <a href="https://dax-in.vercel.app">Portfolio</a> • 
     <a href="https://github.com/dakshu04">GitHub</a> • 
     <a href="https://linkedin.com/in/purohitdaksh">LinkedIn</a> • 
     <a href="mailto:purohitdaksh2003@gmail.com">Email</a> • 
@@ -15,9 +16,9 @@
 
 I am a software engineer who loves building full-stack products from scratch. Bridging the gap between aesthetics and highly functional systems, I operate as a **Designer Engineer**—crafting premium, minimalistic interfaces backed by robust, scalable architectures. 
 
-With a strong focus on AI integrations and automation, **I build MVPs for clients like the ones below**, helping founders and businesses go from zero to one rapidly without compromising on code quality or user experience.
+With a strong focus on AI integrations and automation, **I build MVPs for clients**, helping founders and businesses go from zero to one rapidly without compromising on code quality or user experience.
 
-
+> ⏳ **Current Status:** 3x SaaS is loading...
 
 ---
 
@@ -38,27 +39,41 @@ With a strong focus on AI integrations and automation, **I build MVPs for client
 
 ### [SnapMod](https://snapmod.xyz) — AI-Powered SaaS for Creators
 *Next.js 14, TypeScript, Gemini API, Dodo Payments, Supabase*
-> **Live App:** [snapmod.xyz](https://snapmod.xyz) | Nov 2025 – Present
+> ↳ **Live App:** [snapmod.xyz](https://snapmod.xyz)
 
 * Architected and launched a B2C SaaS platform enabling users to generate and edit professional headshots using Gemini Nano/Flash AI models.
 * Engineered a robust monetization system using Dodo Payments, implementing secure webhooks to handle real-time subscription activation and tiered access.
-* Optimized API latency for heavy AI workloads by implementing optimistic UI updates and edge caching in Next.js, ensuring a seamless user experience.
-* Integrated Clerk for secure authentication and Supabase (PostgreSQL) for managing user credits and transaction history.
+* Optimized API latency for heavy AI workloads by implementing optimistic UI updates and edge caching in Next.js.
+
+### [Ops-OS](https://ops-os.vercel.app) — Project Management Tool
+*Full Stack Development*
+> ↳ **Live App:** [ops-os.vercel.app](https://ops-os.vercel.app)
+
+* Built a streamlined, high-performance project management operating system designed to organize workflows, track progress, and boost productivity with a modern, minimalistic interface. 
 
 ### ImageMagic — Advanced Image Transformation
 *Next.js, TypeScript, Prisma, Tailwind CSS, Shadcn UI, NeonTech*
-> **Live App & GitHub** | Oct 2025
+> ↳ **Live App:** [ImageMagic](https://imagemagic-alpha.vercel.app/) | **Source:** [GitHub](https://github.com/dakshu04)
 
-* Built ImageMagic, a SaaS application that allows users to transform images for social media platforms with resizing, cropping, and optimization features.
-* Integrated Cloudinary to enable background removal and advanced image processing, delivering professional-quality results at no cost.
-* Developed a modern, responsive interface using Next.js, React, Tailwind CSS, and Shadcn UI for a polished and intuitive design.
+* Built a SaaS application allowing users to transform images for social media platforms with resizing, cropping, and optimization features.
+* Integrated Cloudinary to enable background removal and advanced image processing, delivering professional-quality results.
 
 ### BillMate — Streamlined Invoice Management
 *Next.js, TypeScript, Prisma, Tailwind CSS*
-> **Live App & GitHub** | Jul 2025 – Sept 2025
+> ↳ **Live App:** [BillMate](https://billmate-tau.vercel.app/) | **Source:** [GitHub](https://github.com/dakshu04)
 
 * Developed a full-stack invoice management system for small businesses and freelancers, allowing seamless client management, invoice creation, and PDF generation in under one minute.
-* Implemented features for managing multiple clients, generating professional PDF invoices, and tracking invoice history with a clean dashboard.
+
+### [Rekall](https://prod-rekall-fslh.vercel.app/) – Personal Content Hub
+*MERN Stack, Shadcn UI, Framer Motion*
+> ↳ **Live App:** [prod-rekall-fslh.vercel.app](https://prod-rekall-fslh.vercel.app/) | **Source:** [GitHub](https://github.com/dakshu04/prod-rekall)
+
+* A full-stack productivity app to organize & manage Twitter and YouTube content using embedded previews with secure JWT Auth.
+
+### Additional Technical Projects
+* **[Shortest Path Visualizer](https://path-finder-project.vercel.app/)**: Interactive React tool visualizing Dijkstra’s Algorithm with dynamic grid path animations. ([GitHub](https://github.com/dakshu04/Path-Finder-Project))
+* **[Role-Based Access Control Web App](https://front-end-rbac-college-book-store.vercel.app/)**: MERN app for a college book-sharing platform with secure role-based login (Student, Teacher, Admin). ([GitHub](https://github.com/dakshu04/RBAC-College-Book-Store))
+* **Real-Time Multiplayer Chess Game**: A real-time socket-powered chess app with player invite links and spectator mode. ([GitHub](https://github.com/dakshu04))
 
 ---
 
@@ -82,12 +97,3 @@ With a strong focus on AI integrations and automation, **I build MVPs for client
 | **B.Tech. (AI & Data Science)** | Jaipur Engineering College and Research Center | 87.20% | 2025 |
 | **Senior Secondary** | Alok School | 84.00% | 2021 |
 | **Secondary** | Shree Jee Public Sr. Sec. School | 89.17% | 2019 |
-
----
-
-## ✦ Analytics & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakshu04&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshu04&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333" height="160" alt="Top Languages" />
-</div>
